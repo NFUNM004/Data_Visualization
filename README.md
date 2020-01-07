@@ -28,9 +28,13 @@
 
 ![全球各地区疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/yimiaojiezhong.JPG "全球各地区疫苗接种率.jpg")
 
+![全球各地区疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/yimiaojiezhong.PNG"全球各地区疫苗接种率.png")
+
 - 此图表现的是从1980到2018年这38年来全球各地区的第一支麻疹疫苗接种率，随着疫苗接种知识的普及和医疗条件的提升，从1980开始麻疹疫苗接种率呈快速增长趋势，到1990年呈最高值，同时增长趋势开始放缓。
 
 ![近十年全球各国第一支疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/jinshinianyimiao.JPG "近十年全球各国第一支疫苗接种率.jpg")
+
+![近十年全球各国第一支疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/jinshinianyimiao.PNG "近十年全球各国第一支疫苗接种率.png")
 
 ![2018年各地区接种麻疹疫苗避免的麻疹死亡比例](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/18_bimianshiwang.JPG "2018年各地区接种麻疹疫苗避免的麻疹死亡比例.jpg")
 
