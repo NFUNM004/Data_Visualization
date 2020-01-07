@@ -25,42 +25,43 @@
 
 
 ### 数据分析及故事：
-
-![全球各地区疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/yimiaojiezhong.JPG "全球各地区疫苗接种率.jpg")
-
-![全球各地区疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/jinshinianyimiao.png "全球各地区疫苗接种率.png")
+![全球各地区疫苗接种率](https://upload-images.jianshu.io/upload_images/9779994-c5cc3c414577f3af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 此图表现的是从1980到2018年这38年来全球各地区的第一支麻疹疫苗接种率，随着疫苗接种知识的普及和医疗条件的提升，从1980开始麻疹疫苗接种率呈快速增长趋势，到1990年呈最高值，同时增长趋势开始放缓。
 
-![近十年全球各国第一支疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/jinshinianyimiao.JPG "近十年全球各国第一支疫苗接种率.jpg")
+![近十年全球各国第一支疫苗接种率](https://upload-images.jianshu.io/upload_images/9779994-aff25c44cb65a727.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![近十年全球各国第一支疫苗接种率](https://github.com/NFUNM004/Data_Visualization/blob/master/yimiaojiezhong.png "近十年全球各国第一支疫苗接种率.png")
 
-![2018年各地区接种麻疹疫苗避免的麻疹死亡比例](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/18_bimianshiwang.JPG "2018年各地区接种麻疹疫苗避免的麻疹死亡比例.jpg")
+
+![2018年各地区接种麻疹疫苗避免的麻疹死亡比例](https://upload-images.jianshu.io/upload_images/9779994-f66ab5f8fa80d034.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 上图是近十年各国第一支麻疹疫苗的接种率，可以看到疫苗接种率较低的地区主要还是非洲地区。
 - 下图是2018年各地区接种麻疹疫苗避免的麻疹死亡案例比例，随着非洲地区医疗条件逐渐改善，非洲地区疫苗接种率不断提升，2018年接种疫苗避免的麻疹死亡比例非洲占比最多，其次是亚洲。
 
 - 值得注意的是，根据地图，从2015年之后，部分国家疫苗接种率逐渐在降低，南美洲接种率下降得较为明显。
 
-![2000年与2018年麻疹病例报道对比](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/08_18duibi.JPG "2000年与2018年麻疹病例报道对比.jpg")
 
-![2000年与2018年麻疹发病率](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/fabinglv.JPG "2000年与2018年麻疹发病率.jpg")
+![2000年与2018年麻疹病例报道对比](https://upload-images.jianshu.io/upload_images/9779994-9f46471045072ac1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![2000年与2018年麻疹发病率](https://upload-images.jianshu.io/upload_images/9779994-1ba7783ba14ae59b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
- 对比2000年和2018年麻疹病例报道和麻疹发病率，非洲、东南亚、西太平洋地区麻疹病例和发病率都有明显降低，但地中海东部、欧洲、美洲则不降反升。
+
+- 对比2000年和2018年麻疹病例报道和麻疹发病率，非洲、东南亚、西太平洋地区麻疹病例和发病率都有明显降低，但地中海东部、欧洲、美洲则不降反升。
 
 ---
+
 - 麻疹疫苗接种率下降，地中海东部、欧洲、美洲麻疹病例和发病率增长，近几年麻疹疫情是否不太乐观？
 
 
-![2011到2019年全球各国麻疹案例](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/11-19mazhenanli.JPG "2011到2019年全球各国麻疹案例")
+
+![2011到2019年全球各国麻疹案例](https://upload-images.jianshu.io/upload_images/9779994-615bd5750578d224.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-![2018年与2019年麻疹病例对比](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/18_19duibi.JPG "2018年与2019年麻疹病例对比")
+![2018年与2019年麻疹病例对比](https://upload-images.jianshu.io/upload_images/9779994-6db45a704c32bc64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-透过2011年到2019年各国麻疹病例的时间轴地图，能够看到近三年麻疹病例激增。通过对比18年与19年的麻疹病例数量也证实了这一点，2019年麻疹病例确实比2018年有所提升。
+ - 透过2011年到2019年各国麻疹病例的时间轴地图，能够看到近三年麻疹病例激增。通过对比18年与19年的麻疹病例数量也证实了这一点，2019年麻疹病例确实比2018年有所提升。
 
 
 #### 总结：
