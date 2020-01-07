@@ -1,11 +1,9 @@
 ## 数据可视化项目
 
+### pythonanywhere连接入口：http://skyworth0130.pythonanywhere.com/
+
 ### 选题
 全球麻疹案例数量、死亡率及麻疹疫苗接种情况分析
-
-#### pythonanywhere连接入口：
-http://skyworth0130.pythonanywhere.com/
-
 
 ### 背景：
 麻疹是最常见的急性呼吸道传染病之一，传染性很强，严重时可导致死亡，在人口密集而未普种疫苗的地区容易发生流行。随着麻疹疫苗的普及，
@@ -24,9 +22,10 @@ http://skyworth0130.pythonanywhere.com/
 - [2011- 2019年按国家和月份分类的麻疹病例分布](https://www.who.int/immunization/monitoring_surveillance/burden/vpd/surveillance_type/active/measles_monthlydata/en/)
 - [2000年与2018年麻疹疫情对比](https://s3.amazonaws.com/wp-agility2/measles/wp-content/uploads/2019/12/Progress-Toward-Regional-Measles-Elimination-2018.pdf)
 
+---
 
 ### 数据分析及故事：
-** 图片无法显示可点击网页链接
+**图片无法显示可点击网页链接**
 
 ![全球各地区疫苗接种率](https://upload-images.jianshu.io/upload_images/9779994-c5cc3c414577f3af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
