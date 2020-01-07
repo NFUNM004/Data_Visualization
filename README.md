@@ -1,17 +1,27 @@
-#### 数据可视化项目
+## 数据可视化项目
 
-### 选题
+#### 选题
 全球麻疹案例数量、死亡率及麻疹疫苗接种情况分析
 
-#### 背景：
+#### pythonanywhere连接入口：http://skyworth0130.pythonanywhere.com/
+
+
+### 背景：
 麻疹是最常见的急性呼吸道传染病之一，传染性很强，严重时可导致死亡，在人口密集而未普种疫苗的地区容易发生流行。随着麻疹疫苗的普及，
 麻疹大流行基本上得到控制，但麻疹疫情在世界各地仍会偶尔爆发。因此我们通过全球麻疹案例的数量、疫苗接种情况等进行可视化，分析全球麻疹疫情的现状。
 
 
-# 数据来源
-世界卫生组织
+### 数据及来源
 
-世界银行官网
+来源：
+- 世界卫生组织官网
+- 相关论文
+
+数据收集：
+[麻疹第一剂（MCV1）各国接种率估算](http://http://apps.who.int/gho/data/node.main.A826?lang=en)
+[区域麻疹，第一剂疫苗（MCV1）覆盖率](http://apps.who.int/gho/data/view.main.81100?lang=en)
+[2011- 2019年按国家和月份分类的麻疹病例分布](https://www.who.int/immunization/monitoring_surveillance/burden/vpd/surveillance_type/active/measles_monthlydata/en/)
+[2000年与2018年麻疹疫情对比](https://s3.amazonaws.com/wp-agility2/measles/wp-content/uploads/2019/12/Progress-Toward-Regional-Measles-Elimination-2018.pdf)
 
 
 ### 数据分析及故事：
@@ -39,11 +49,11 @@
 ---
 - 麻疹疫苗接种率下降，地中海东部、欧洲、美洲麻疹病例和发病率增长，近几年麻疹疫情是否不太乐观？
 
+
 ![2011到2019年全球各国麻疹案例](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/11-19mazhenanli.JPG "2011到2019年全球各国麻疹案例")
 
 
 ![2018年与2019年麻疹病例对比](https://github.com/NFUNM004/Data_Visualization/blob/master/keshihua_image/18_19duibi.JPG "2018年与2019年麻疹病例对比")
-
 
 
 透过2011年到2019年各国麻疹病例的时间轴地图，能够看到近三年麻疹病例激增。通过对比18年与19年的麻疹病例数量也证实了这一点，2019年麻疹病例确实比2018年有所提升。
